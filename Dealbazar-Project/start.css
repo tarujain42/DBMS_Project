@@ -1,0 +1,111 @@
+.navbar-inverse .navbar-brand{
+color:white;
+}
+.usr{
+	padding-top:15px;
+	padding-bottom:15px;
+	font-color:white;
+	color:white;
+}
+.ty{
+	margin-bottom:0%;
+	
+}
+.sel{
+ width:40%;
+}
+input .ttj{
+	size:5;
+}
+.ppp{
+	text-align:right;
+	margin-right:20px;
+	font-size:30px;
+}
+.hu{
+	font-size:20px;
+}
+.cn{
+	color:blue;
+	font-color:blue;
+}
+.b1{
+	position:absolute;
+	top:50%;
+	left:11%;
+}
+.b2{
+	position:absolute;
+	top:50%;
+	right:11%;
+	
+}
+.tjn{
+	color:white;
+	position:absolute;
+	top:40%;
+	left:25%;
+	font-size:35px;
+}
+.tjn1{
+	color:white;
+	position:absolute;
+	top:40%;
+	left:37%;
+	font-size:35px;
+}
+.tjj{
+	margin-left:3%;
+	margin-right:3%;
+}
+.back{
+	padding-top:5%;
+	margin-left:10%;
+	width:80%;
+	height:100%;
+}
+.test{
+margin-top:33px;
+}
+.pd{
+	margin-left:5%;
+	text-align:left;
+	}
+.pd2{
+	margin-right:5%;
+	text-align:right;
+	
+}
+
+hr{
+	border-color:black;
+}
+.test1{
+margin-top:51px;
+}
+.test2{
+padding-top:5%;
+}
+
+.test3{
+padding-top:1%;
+}
+
+.log1{
+position:absolute;
+width:100%;
+background-color: black;
+width =100%;
+opacity: 0.4;	
+}
+
+.log2{
+background-color: black;
+opacity: 0.4;	
+}
+.mySlides{
+position:relative;
+width:100%;
+}
+
+
